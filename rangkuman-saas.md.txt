@@ -1,0 +1,22 @@
+								145610145
+
+1. What is the difference between IaaS, SaaS, and PaaS?.
+
+	In IaaS (Infrastructure as a Service) you are given materials like cement, bricks, sheets, etc. to build a house. Similarly, here you get to 	choose the hardware you want to make the cloud service. You have got the flexibility to make it in the way you want. Ex: Amazon Web 	Services, Microsoft Azure, Google Compute Engine, etc.
+
+	In PaaS (Platform as a Service) the house is built for you, you only need to furnish it. Similarly, here you are provided preconfigured 		hardware. So it can only run applications it supports. You don’t get the flexibility when compared with IAAS. Ex: Heroku, Google App Engine, 	etc.
+
+	SaaS (Software as a Service) all you need to occupy. Here you are offered software on a subscription basis. Ex: Gmail, Yahoo, etc
+
+2. SaaS Platform Architecture.
+
+	SAAS (Software as a Service) Platform Architecture SaaS applications are single-instance, multi-tenant architecture that provide a feature-	rich experience competitive with on-premise applications. Aggregator bundles SaaS offerings from different vendors and offers them as part 	of a unified application platform.
+
+3. SaaS (Software as a Service) Platform itecture.
+
+	Software as a service is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally 	hosted. ... SaaS applications are single-instance, multi-tenant architecture that provide a feature-rich experience competitive with on-	premise applications.
+
+4. How to build a cloud-based SaaS Application.
+
+	deally, you should have an idea of the type of application you aim to develop before you get into it. Brainstorm for a while, and ask 	yourself the following: Do you have the help of a SaaS development company? How much do you have to spend? How soon do you want it done? 	When you settle on the scope, we can then move to the steps you need to take to build a cloud-based SaaS application.
+
